@@ -1,68 +1,29 @@
 # Nash Mahler
 
-### Building intelligent systems that simplify complex operations.
+### Building AI systems that are measured, verified, and actually used.
 
-I'm an operations professional and independent technical product builder focused on AI-powered automation, financial intelligence, and scalable software systems.
+Operations professional and independent builder. I design, build, and test LLM-powered tools and workflow automation, with a focus on financial data and making AI output trustworthy.
 
-My work combines operational strategy, financial analysis, and hands-on technical development to build products that improve decision-making, reduce manual work, and create measurable business value.
+## Featured Project
 
-## What I'm Building
+### [AI Infrastructure Intelligence Brief](https://github.com/Nashmahler/ai-infra-intel-brief)
+A daily AI agent that reads ~500 articles on compute, power, and data centers, ranks what matters, and publishes a short brief automatically.
 
-### Verlient Financial
-**Founder | Product Development & Technical Architecture**
+- **Verified, not just generated:** every claim must match a quote from its source, checked in code. If nothing can be verified, it publishes nothing.
+- **Measured:** built an eval on hand-labeled data and raised ranking accuracy from **75% → 90%**, holding at 90% on a held-out set.
+- **Production setup:** Python, Claude API, scheduled on GitHub Actions, **309 automated tests**.
 
-[Verlient Financial](https://verlient.com) is an AI-powered financial intelligence platform designed to help businesses and financial professionals move beyond traditional reporting toward actionable insights and better operational decisions.
+## Currently Building
 
-I'm independently leading the product's development, including:
+**Verlient Financial**: an AI financial intelligence platform for accounting firms, built on live QuickBooks data with source-traced answers and 1,000+ automated tests. *(Private repository.)*
 
-- **Financial Intelligence:** AI-assisted financial analysis, evidence-grounded insights, and actionable recommendations.
-- **Workflow Automation:** Building systems that connect financial data, analysis, approvals, and follow-through.
-- **Full-Stack Development:** Developing a SaaS platform with Next.js, TypeScript, PostgreSQL, Supabase, and Vercel.
-- **Security & Reliability:** Implementing role-based authorization, database-level security, automated testing, and CI/CD verification.
-- **AI-Assisted Engineering:** Using AI development tools to accelerate implementation while emphasizing independent validation, testing, and secure architecture.
+## Stack
 
-*The platform is under active development. Its source code is maintained in a private repository.*
-
-## Technical Stack
-
-**Languages & Frameworks:** TypeScript · JavaScript · SQL · Next.js · React
-
-**Infrastructure & Databases:** PostgreSQL · Supabase · Vercel · Cloudflare
-
-**Automation & AI:** Claude Code · ChatGPT · OpenAI API · Zapier · Gumloop
-
-**Development & Quality:** Git · GitHub Actions · CI/CD · Automated Testing · Security Testing
-
-## Areas of Focus
-
-- AI-enabled business operations
-- Financial technology and SaaS development
-- Workflow optimization and process automation
-- Technical product strategy
-- Data-driven decision-making
-- Secure and scalable system architecture
+**AI:** Claude Code · Claude API · LLM evals · Prompt engineering · ChatGPT
+**Languages & frameworks:** Python · TypeScript · SQL · Next.js · React
+**Infrastructure:** Supabase (PostgreSQL) · Vercel · Cloudflare · GitHub Actions
+**Automation:** Zapier · Gumloop
 
 ## Connect
 
-**Website:** [verlient.com](https://verlient.com)
-
-**LinkedIn:** [linkedin.com/in/nash-mahler](https://www.linkedin.com/in/nash-mahler)
-
----
-
-*Building technology that makes complex decisions clearer and operational execution more effective.*## Hi there 👋
-
-<!--
-**Nashmahler/Nashmahler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/nash-mahler)
