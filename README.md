@@ -11,7 +11,7 @@ A daily AI agent that reads ~500 articles on compute, power, and data centers, r
 
 - **Verified, not just generated:** every claim must match a quote from its source, checked in code. If nothing can be verified, it publishes nothing.
 - **Measured:** built an eval on hand-labeled data and raised ranking accuracy from **75% → 90%**, holding at 90% on a held-out set.
-- **Production setup:** Python, Claude API, scheduled on GitHub Actions, **309 automated tests**.
+- **Production setup:** Python, Claude API, ran daily on GitHub Actions with **309 automated tests**. *(Paused to save API cost; past briefs are in the repo.)*
 
 ## Currently Building
 
