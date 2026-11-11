@@ -7,7 +7,7 @@ Operations professional and independent builder. I design, build, and test LLM-p
 ## Featured Project
 
 ### [AI Infrastructure Intelligence Brief](https://github.com/Nashmahler/ai-infra-intel-brief)
-A daily AI agent that reads ~500 articles on compute, power, and data centers, ranks what matters, and publishes a short brief automatically.
+A daily AI agent that reads ~500 articles on compute, power, and data centers, ranks what matters, and published a short brief automatically each morning.
 
 - **Verified, not just generated:** every claim must match a quote from its source, checked in code. If nothing can be verified, it publishes nothing.
 - **Measured:** built an eval on hand-labeled data and raised ranking accuracy from **75% → 90%**, holding at 90% on a held-out set.
